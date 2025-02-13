@@ -1,0 +1,17 @@
+{
+  "name": "locize-docs-redirect",
+  "version": "1.0.0",
+  "homepage": "https://docs.locize.com",
+  "author": "locize",
+  "type": "module",
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/locize/docs-redirect"
+  },
+  "scripts": {
+    "start": "http-server . -p 8080",
+    "generate": "node scripts/generate.js"
+  }
+}

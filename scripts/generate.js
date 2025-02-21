@@ -59,6 +59,7 @@ const urlMap = {
   '/guides-tips-and-tricks/migrating-from.html': '/docs/migrating-from',
   '/guides-tips-and-tricks/migrating-from/migrating-from-phrase-to-locize': '/docs/migrating-from-phrase-to-locize',
   '/guides-tips-and-tricks/migrating-from/migrating-from-transifex-to-locize': '/docs/migrating-from-transifex-to-locize',
+  '/guides-tips-and-tricks/going-production': '/docs/going-to-production',
   '/more/incontext-editor.html': '/docs/incontext-editor',
   '/more/incontext-editor/migrating-from-the-old-incontext-editor': '/docs/migrating-from-the-old-incontext-editor',
   '/more/figma-plugin': '/docs/figma-plugin',

@@ -35,7 +35,7 @@ const urlMap = {
   '/different-views/global': '/docs/global',
   '/different-views/incontext': '/docs/incontext',
   '/different-views/focus': '/docs/focus',
-  '/checks-issues': '/docs/issues',
+  '/issues': '/docs/checks-issues',
   '/using-locize-as-translator': '/docs/using-locize-as-a-translator',
   '/integration/getting-started.html': '/docs/getting-started',
   '/integration/getting-started/create-a-user-account': '/docs/create-a-user-account',

@@ -20,6 +20,7 @@ const getHtml = (url) => `<!DOCTYPE HTML>
 const targetDomain = 'https://locize.com'
 
 const urlMap = {
+  '/index.html': '/docs',
   '/whats-inside.html': '/docs/whats-inside',
   '/whats-inside/cdn-content-delivery-network': '/docs/cdn-content-delivery-network',
   '/whats-inside/tags': '/docs/tags',
